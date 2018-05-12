@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '6777'
     url: http://www.gutenberg.org/2009/agents/6777
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/16532#The-Plastic-Age
 gutenberg_issued: '2005-08-15'
 gutenberg_type: Text
 identifiers:
